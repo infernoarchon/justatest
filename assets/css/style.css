@@ -30,7 +30,7 @@ h1 {
     color: black;
 }
 
-p {
+.textwrapper {
     color: black;
     max-width: 960px;
 }
