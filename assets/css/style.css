@@ -33,6 +33,7 @@ h1 {
 .textwrapper {
     color: black;
     max-width: 960px;
+    margin: auto;
 }
 
 body {
