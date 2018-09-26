@@ -24,9 +24,8 @@ header {
     bottom: 200px;
     width: 100%;
     text-align:center;
-    background-color: white;
     padding: 10px;
-    box-shadow: 3px 5px 10px;
+    border-bottom: 1px solid black;
 }
 
 h1 {
