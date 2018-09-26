@@ -19,23 +19,37 @@
     left: 40%;
 }
 
-.header {
-    margin: auto;
+header {
+    position: fixed;
+    bottom: 200px;
+    width: 100%;
+    text-align:center;
+    background-color: white;
+    padding: 10px;
+    box-shadow: 3px 5px 10px;
 }
 
 h1 {
-    font-size: 5em;
+    font-size: 4em;
     margin: auto;
     text-align: center;
     color: black;
+    font-weight: 500;
 }
 
 .textwrapper {
     color: black;
+    position: fixed;
+    bottom: 100px;
+    width: 100%;  
+}
+
+article {
     max-width: 960px;
     margin: auto;
+    text-align:left;
 }
 
 body {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
