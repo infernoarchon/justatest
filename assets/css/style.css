@@ -27,9 +27,13 @@ h1 {
     font-size: 5em;
     margin: auto;
     text-align: center;
+    color: black;
+}
+
+p {
+    color: black;
 }
 
 body {
-    color: black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
